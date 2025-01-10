@@ -6,18 +6,19 @@
     padding-left: 55px;
     padding-top: 25px;
     padding-bottom: 55px;
-    gap:55px;
-    width:85%;
-    align-items: center;
+    gap:10%;
+    width:970px;
+  
+    
 }
-h5{
+h4{
     color: gray;
 }
 
 .description{
     font-family:'Times New Roman', Times, serif;
 font-size: 35px;
-width:280px;
+width:380px;
 }
 
 button{
@@ -30,6 +31,8 @@ button{
 
 
 .image{
-  width: 420px; 
-  height: 330px;
+  width: 550px; 
+  height: 350px;
+  padding-right: 75px;
+ 
 }
