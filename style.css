@@ -1,6 +1,6 @@
 body{
     margin-left: 175px;
-    margin-right: 375px;
+    margin-right: 275px;
 
 }
 .detail{
@@ -92,4 +92,71 @@ border: none;
         }
 button:hover,.button3:hover,.button2:hover,.button1:hover{
     background-color: rgb(214, 74, 121);
+}
+
+
+
+/* This is css of recent news part*/
+
+.recent_news1{
+    display:flex;
+    gap:5%;
+    background-color: antiquewhite;
+    padding: 55px;
+    border-radius: 15px;
+}
+
+
+.pic{
+    border-radius: 15px;
+}
+.recent_news2{
+    display:flex;
+    gap:5%;
+    background-color: antiquewhite;
+    padding: 45px;
+    border-radius: 15px;
+    margin-top: 25px;
+
+}
+
+/* This is css of donate news part*/
+
+.div{
+    display: flex;
+    gap:2%;
+    
+}
+.b1{
+    background-color: rgb(252, 252, 252);
+    padding: 15px;
+    border-radius: 15px;
+}
+.b2{
+    background-color: rgb(153, 218, 101);
+    padding: 15px;
+    border-radius: 15px;
+}
+span{
+    padding-left: 175px;
+}
+
+.input{
+    text-align: center;
+    width:450px;
+    margin-top: 15px;
+    height: 35px;
+   
+}
+.button11{
+    margin-top: 15px;
+    margin-left: 125px;
+}
+.donate{
+ background-color: rgb(113, 184, 160);
+ padding-left: 131px;
+ padding-top: 26px;
+ margin-top: 15px;
+ padding-bottom: 11px;
+ border-radius: 15px;
 }
