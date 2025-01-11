@@ -1,6 +1,10 @@
 body{
-    margin: 175px;
+    margin-left: 175px;
+    margin-right: 375px;
 
+}
+.detail{
+    color: grey;
 }
 /* This is css of hero part*/
 #hero{
@@ -12,7 +16,7 @@ body{
     padding-top: 25px;
     padding-bottom: 55px;
     gap:10%;
-    width:1000px;
+   
   
     
 }
@@ -86,3 +90,6 @@ border: none;
         color: white;
         border: none;
         }
+button:hover,.button3:hover,.button2:hover,.button1:hover{
+    background-color: rgb(214, 74, 121);
+}
